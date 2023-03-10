@@ -1,4 +1,5 @@
 ### Hi there 👋
+![fzyo1h5ijir81](https://user-images.githubusercontent.com/18409551/224440066-fff58d2a-ccdb-445f-86e9-cb744aa02748.jpg)
 
 <!--
 **kwonggary/kwonggary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
