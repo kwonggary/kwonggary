@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-<h3>Welcome Recruiters!
+<h3>Gary Kwong
 </div>
 <div align="center">
   
