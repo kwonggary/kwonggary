@@ -38,23 +38,20 @@
 
 ###
 
-<br clear="both">
 
 <div align="center">
-
   <a href="https://www.linkedin.com/in/kwonggary/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="90" height="50" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="linkedin logo" width="90" height="50" />
   </a>
-  
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="90" height="50" alt="gmail logo"  />
-  
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="gmail logo" width="90" height="50" />
   <a href="https://discord.gg/9UqfSwq29b" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="90" height="50" alt="discord logo"  />
-  
-
-<a href="https://www.leetcode.com/kwonggary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kwonggary" height="50" width="90" /></a>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" alt="discord logo" width="90" height="50" />
+  </a>
+  <a href="https://www.leetcode.com/kwonggary" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kwonggary" width="90" height="50" />
   </a>
 </div>
+
 
 ###
 
