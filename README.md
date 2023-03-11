@@ -1,8 +1,6 @@
 ### Welcome recruiters!
-![fzyo1h5ijir81](https://user-images.githubusercontent.com/18409551/224440066-fff58d2a-ccdb-445f-86e9-cb744aa02748.jpg)
+<img src="https://i.imgur.com/tiMsP9c.gif" alt="example gif" />
 
-
-<h2 align="left">Gary</h2>
 
 
 
@@ -32,9 +30,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/kwonggary/kwonggary/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
