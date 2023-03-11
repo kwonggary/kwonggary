@@ -1,7 +1,9 @@
-### Welcome recruiters!
+###
+<div align="center">
+<h3>Welcome Recruiters!
 <img src="https://i.imgur.com/tiMsP9c.gif" alt="example gif" />
 
-
+</div>
 
 
 <div align="center">
@@ -29,7 +31,6 @@
 </div>
 
 ###
-![Snake animation](https://github.com/kwonggary/kwonggary/blob/output/github-contribution-grid-snake.svg)
 
 
 
