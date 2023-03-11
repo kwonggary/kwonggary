@@ -21,7 +21,6 @@
   <a href="https://www.linkedin.com/in/kwonggary/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="linkedin logo" width="90" height="50" />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="gmail logo" width="90" height="50" />
   <a href="https://discord.gg/9UqfSwq29b" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" alt="discord logo" width="90" height="50" />
   </a>
