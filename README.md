@@ -1,9 +1,13 @@
 ###
 <div align="center">
 <h3>Welcome Recruiters!
-<img src="https://i.imgur.com/tiMsP9c.gif" alt="example gif" />
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/18409551/224462538-6471154b-8965-420a-b3d8-875f07e6765b.gif" alt="example gif" />
 
 </div>
+
 
 
 <div align="center">
