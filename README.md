@@ -1,10 +1,16 @@
+<div align="center">
+<img src="https://user-images.githubusercontent.com/18409551/224462538-6471154b-8965-420a-b3d8-875f07e6765b.gif" alt="example gif" />
+</div>
 
+###
 
 <div align="center">
 <h3>Gary Kwong
 </div>
 <div align="center">
   
+###
+
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=kwonggary" height="150" alt="stats graph"  />
 </div>
 
@@ -32,7 +38,3 @@
 </div>
 
 ###
-###
-<div align="center">
-<img src="https://user-images.githubusercontent.com/18409551/224462538-6471154b-8965-420a-b3d8-875f07e6765b.gif" alt="example gif" />
-</div>
