@@ -1,17 +1,14 @@
 <div align="center">
-![](https://github.com/kwonggary/kwonggary/assets/18409551/60e9f156-ef10-45ef-9dce-af0f303fb511)
-</div>
-
-###
-
-<div align="center">
-<h3> # Gary Kwong
+<h3>Gary Kwong
+  **'Software Engineer'**
 </div>
 <div align="center">
   
 ###
-
-
+  
+<div align="center">
+![](https://github.com/kwonggary/kwonggary/assets/18409551/60e9f156-ef10-45ef-9dce-af0f303fb511)
+</div>
 
 ###
 
