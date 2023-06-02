@@ -1,5 +1,5 @@
 <div align="center">
-![Blue-Origin-hotfire-BE-4-engine-2](https://github.com/kwonggary/kwonggary/assets/18409551/60e9f156-ef10-45ef-9dce-af0f303fb511)
+![](https://github.com/kwonggary/kwonggary/assets/18409551/60e9f156-ef10-45ef-9dce-af0f303fb511)
 </div>
 
 ###
