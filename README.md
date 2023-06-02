@@ -1,9 +1,10 @@
 <div align="center">
 <h3>Gary Kwong
-  **'Software Engineer'**
 </div>
 <div align="center">
   
+   **'Software Engineer'**
+ 
 ###
   
 <div align="center">
