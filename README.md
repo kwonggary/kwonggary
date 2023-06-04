@@ -7,9 +7,7 @@
  
 ###
   
-<div id="header" align="center">
-  <img src="[(https://media.giphy.com/media/l1J9LJALaDbMoQy1q/giphy.gif)](https://media.giphy.com/media/l1J9LJALaDbMoQy1q/giphy.gif)" width="100"/>
-</div>  
+![Engine](https://github.com/kwonggary/kwonggary/assets/18409551/99df623e-85f3-49e0-ae58-dfe8d34f2081)
   
 
 ###
