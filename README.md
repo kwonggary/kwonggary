@@ -7,7 +7,7 @@
  
 ###
   
-![nature](https://github.com/kwonggary/kwonggary/assets/18409551/96e39409-3d37-4cf8-8945-43a96266eac5)
+
   
 
 ###
@@ -26,3 +26,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=kwonggary.kwonggary&left_color=darkgray&right_color=black&left_text=Visits"  />
 </div>
 
+###
+  
+![nature](https://github.com/kwonggary/kwonggary/assets/18409551/96e39409-3d37-4cf8-8945-43a96266eac5)
