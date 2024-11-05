@@ -3,7 +3,7 @@
 </div>
 <div align="center">
   
-   **`Computer Science`**
+   **`Software Engineer`**
  
 ###
   
