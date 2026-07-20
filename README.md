@@ -1,13 +1,6 @@
 <div align="center">
-<h3>Gary Kwong
 </div>
 <div align="center">
-  
-   **`Programmer`**
- 
-###
-  
-
   
 
 ###
